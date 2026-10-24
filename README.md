@@ -1,6 +1,6 @@
 Superstore Sales Analysis Using Python
 
- Project Overview
+Project Overview
 This project analyzes retail sales data to identify sales trends and business insights.
 
 Tools Used
